@@ -1,0 +1,144 @@
+p{
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+div{
+
+text-align: center;
+align-items: center;
+justify-content: center;
+
+}
+.container{
+    background-color: #666666;
+    max-width: 980px;
+    padding-bottom: 0.4em;
+    padding-top: 0.4em;
+
+}
+.logo_menu{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+
+}
+
+.logo{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 50px;
+    width: 75px;
+    margin-right: 0.4em;
+    
+}
+
+.menu{
+    flex-grow: 2;
+    background-color: #aaaaaa;
+    height: 50px;
+    width: 150px;
+
+    
+}
+
+.image{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 300px;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+   
+}
+
+.feat{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+    margin-bottom: 0.4em;
+
+}
+
+.feat_1{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.4em;    
+}
+
+.feat_2{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.4em;    
+}
+
+.feat_3{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.sidebar_text{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+
+}
+
+.sidebar{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.4em;    
+}
+
+.text{
+    flex-grow: 2;
+    background-color: #aaaaaa;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.footer{
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    height: 200px;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 0.4em;   
+}

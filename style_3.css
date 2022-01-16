@@ -1,0 +1,121 @@
+.container{
+    max-width: 980px;
+    background-color: #666666;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+}
+
+div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div p{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo_phone_menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+.logo{
+    height: 75px;
+    width: 100px;
+    display: flex;
+    background-color: #aaaaaa;
+    flex-grow: 1;
+}
+
+.phone_menu{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: right;
+    align-items: flex-end;
+    justify-content: right;
+    align-content: right;
+    flex-grow: 2;
+}
+
+.phone{
+    width: 75px;
+    height: 25px;
+    background-color: #aaaaaa;
+    display: flex;
+    flex-grow: 1 !important;
+    align-items:right;
+    align-content: right;
+}
+
+
+.menu{
+    width: 150px;
+    height: 25px;
+    background-color: #aaaaaa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 2 !important;
+    margin-top: 0.4em;
+}
+
+.image{
+    height: 130px;
+    background-color: #aaaaaa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+.text_sidebar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+.text{
+    height: 400px;
+    display: flex;
+    flex-grow: 2;
+    background-color: #aaaaaa;
+}
+
+.sidebar{
+    height: 400px;
+    display: flex;
+    flex-grow: 1;
+    background-color: #aaaaaa;
+    margin-left: 0.4em;
+}
+
+.footer{
+    height: 150px;
+    background-color: #aaaaaa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+    margin-top: 0.4em;
+}

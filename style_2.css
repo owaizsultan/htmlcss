@@ -1,0 +1,129 @@
+.container{
+  background-color: #666666;
+  max-width: 980px;
+  padding-bottom: 0.4em;
+  padding-top: 0.4em;
+}
+
+div{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo_phone{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 0.4em;
+  margin-right: 0.4em;
+}
+
+.logo{
+background-color: #aaaaaa;
+height: 75px;
+width: 120px;
+display: flex;
+}
+
+.phone{
+background-color: #aaaaaa;
+height: 50px;
+width: 150px;
+}
+
+.menu{
+background-color: #aaaaaa;
+height: 70px;
+display: flex;
+margin-left: 0.4em;
+margin-right: 0.4em;
+margin-bottom: 0.4em;
+margin-top: 0.4em;
+}
+
+.image{
+  background-color: #aaaaaa;
+height: 250px;
+display: flex;
+align-content: center;
+margin-left: 0.4em;
+margin-right: 0.4em;
+margin-bottom: 0.4em;
+}
+
+.feat{
+display: flex;
+flex-wrap: wrap;
+margin-left: 0.4em;
+margin-right: 0.4em;
+margin-bottom: 0.4em;
+}
+
+.feat_1{
+  background-color: #aaaaaa;
+height: 100px;
+flex-grow: 1;
+display: flex;
+margin-right: 0.4em;
+}
+
+.feat_2{
+  background-color: #aaaaaa;
+height: 100px;
+flex-grow: 1;
+display: flex;
+margin-right: 0.4em;
+}
+
+.feat_3{
+  background-color: #aaaaaa;
+height: 100px;
+flex-grow: 1;
+display: flex;
+margin-right: 0.4em;
+}
+
+.feat_4{
+  background-color: #aaaaaa;
+  height: 100px;
+  flex-grow: 1;
+  display: flex;
+}
+
+.text_sidebar{
+display: flex;
+flex-wrap: wrap;
+margin-left: 0.4em;
+margin-right: 0.4em;
+}
+
+.text{
+  background-color: #aaaaaa;
+height: 350px;
+flex-grow: 2;
+display: flex;
+margin-right: 0.4em;
+}
+
+.sidebar{
+  background-color: #aaaaaa;
+height: 350px;
+flex-grow: 1;
+display: flex;
+}
+
+.footer{
+  background-color: #aaaaaa;
+  height: 50px;
+  display: flex;
+  margin-left: 0.4em;
+  margin-right: 0.4em;
+  margin-top: 0.4em;
+}
