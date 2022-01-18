@@ -23,6 +23,7 @@ p{
   flex-wrap: wrap;
   margin-left: 0.4em;
   margin-right: 0.4em;
+  justify-content: space-between;
 }
 
 .logo{
