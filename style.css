@@ -26,8 +26,6 @@ a{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  margin-top: 30%;
-  margin-left: 70%;
 }
 
 .project1{
